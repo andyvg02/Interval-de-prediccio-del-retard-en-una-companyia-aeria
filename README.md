@@ -1,1 +1,1 @@
-# Interval-de-prediccio-del-retard-en-una-companyia-aeria
+# Interval de predicció del retard en una companyia aèria
